@@ -28,6 +28,7 @@
 
 * docker相关开源工具
     * [Docker镜像存储](https://github.com/jcloudpub/speedy)
+    * [Docker管理和监控](https://github.com/tobegit3hub/seagull)
 
 * docker相关博客
     * [Allen 谈 Docker 系列](http://blog.daocloud.io/category/allen-%E8%B0%88-docker-%E7%B3%BB%E5%88%97/) 
