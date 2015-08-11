@@ -23,6 +23,7 @@
 * docker实践
     * [京东618：Docker扛大旗，弹性伸缩成重点](http://www.infoq.com/cn/news/2015/06/jd-618-docker)
     * [解密京东618技术：重构多中心交易平台 11000个Docker支撑](http://www.csdn.net/article/2015-07-14/2825203)
+    * [大众点评容器云平台：运营超一年，承载大部分业务](http://www.infoq.com/cn/news/2015/08/dianping-container-service)
     * [八种最常见Docker开发模式 ](http://www.cstor.cn/textdetail_8627.html)
     * [Docker的几个实战经验分享](http://www.infoq.com/cn/news/2015/04/several-docker-practice)
     * [Docker的几种storage drivers的存储性能对比](http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/)
