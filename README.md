@@ -21,6 +21,7 @@
     * [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
 
 * docker实践
+    * [腾讯游戏是如何使用Docker的？](http://www.infoq.com/cn/articles/how-tencent-game-use-docker) 
     * [京东618：Docker扛大旗，弹性伸缩成重点](http://www.infoq.com/cn/news/2015/06/jd-618-docker)
     * [解密京东618技术：重构多中心交易平台 11000个Docker支撑](http://www.csdn.net/article/2015-07-14/2825203)
     * [大众点评容器云平台：运营超一年，承载大部分业务](http://www.infoq.com/cn/news/2015/08/dianping-container-service)
