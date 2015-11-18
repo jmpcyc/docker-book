@@ -7,6 +7,7 @@
     * [Docker基础技术：Linux Namespace（下）](http://coolshell.cn/articles/17029.html)
 
 * docker入门电子书
+    *  [Docker官方文档](https://docs.docker.com)
     *  [Docker —— 从入门到实践](http://dockerpool.com/static/books/docker_practice/index.html)
     *  [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1?pn=1&rf=http%3A%2F%2Fyuedu.baidu.com%2Febook%2Fd817967416fc700abb68fca1%3Ffr%3Daladdin%26key%3Ddocker%26f%3Dread)
     *  [Docker开发实践](http://book.douban.com/subject/26432893/)
