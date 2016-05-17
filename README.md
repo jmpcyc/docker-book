@@ -24,6 +24,7 @@
 * docker实践
     * [腾讯游戏是如何使用Docker的？](http://www.infoq.com/cn/articles/how-tencent-game-use-docker) 
     * [Docker在蚂蚁金融云平台中的探索与实践](http://www.infoq.com/cn/articles/docker-in-the-antgroup-cloud-platform)
+    * [新浪微博混合云架构实践挑战之镜像分发实战](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=503508823&idx=2&sn=7c5f312069c780df1730b85e1bcd063e#rd)
     * [京东618：Docker扛大旗，弹性伸缩成重点](http://www.infoq.com/cn/news/2015/06/jd-618-docker)
     * [解密京东618技术：重构多中心交易平台 11000个Docker支撑](http://www.csdn.net/article/2015-07-14/2825203)
     * [大众点评容器云平台：运营超一年，承载大部分业务](http://www.infoq.com/cn/news/2015/08/dianping-container-service)
